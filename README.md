@@ -13,6 +13,4 @@ This edit is through the new branch I made
 
 I merged the previous file from a different branch
 
-
-
-t
+Now this addition to the file should be merged from a different branch to the master
