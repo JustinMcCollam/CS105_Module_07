@@ -6,3 +6,7 @@
 # ice
 # 
 # Brenic Beggs bab678@nau.edu commit
+
+It is through vim I edited this file
+
+t
