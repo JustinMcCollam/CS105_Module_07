@@ -13,4 +13,6 @@ This edit is through the new branch I made
 
 I merged the previous file from a different branch
 
-Now this addition to the file should be merged from a different branch to the master
+Now this addition to the file should be merged from a different branch to the maste
+
+#is this file going to work now?
