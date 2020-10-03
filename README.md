@@ -4,6 +4,16 @@
 # Water
 # 水
 # ice
+# 
+# Brenic Beggs bab678@nau.edu commit
+
+It is through vim I edited this file
+
+This edit is through the new branch I made
+
+I merged the previous file from a different branch
+
+Now this addition to the file should be merged from a different branch to the master
 # 氷
 
 Brenic Beggs bab678@nau.edu
